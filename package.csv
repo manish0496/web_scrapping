@@ -1,0 +1,321 @@
+,city,health_checkup,known,name,price
+0,delhi,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+1,mumbai,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+2,noida,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+3,navi mumbai,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+4,faridabad,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+5,ahmedabad,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+6,jodhpur,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+7,ludhiana,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+8,visakhapatnam,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Screening Checkup,₹2199
+9,nagpur,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+10,karnal,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+11,surat,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+12,raigarh,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+13,gurgaon,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+14,thane,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+15,hyderabad,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+16,chennai,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+17,bhubaneswar,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+18,indore,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+19,lucknow,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+20,patna,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+21,ernakulam,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+22,aurangabad,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+23,bhopal,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+24,krishnamedak,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+25,mohali,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+26,salem,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+27,rangareddy,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+28,bangalore,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Screening Checkup,₹2199
+29,pune,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+30,kolkata,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+31,coimbatore,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Diabetic Patient's Health Checkup,₹2799
+32,chandigarh,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+33,ghaziabad,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+34,jaipur,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+35,vadodara,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+36,panchkula,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+37,raipur,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+38,madurai,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Patient's Health Checkup,₹3599
+39,vijayawada,diabetes-checkup,Ideal for individuals aged 35 - 85 years,Advanced Diabetic Screening Checkup,₹2199
+40,delhi,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+41,mumbai,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+42,noida,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+43,navi mumbai,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+44,faridabad,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+45,ahmedabad,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+46,jodhpur,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+47,ludhiana,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+48,visakhapatnam,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+49,nagpur,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+50,karnal,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+51,surat,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+52,raigarh,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+53,gurgaon,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+54,thane,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+55,hyderabad,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+56,chennai,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+57,bhubaneswar,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+58,indore,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+59,lucknow,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+60,patna,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+61,ernakulam,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+62,aurangabad,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+63,bhopal,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+64,krishnamedak,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+65,mohali,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+66,salem,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+67,rangareddy,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+68,bangalore,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+69,pune,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+70,kolkata,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+71,coimbatore,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+72,chandigarh,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+73,ghaziabad,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+74,jaipur,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+75,vadodara,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+76,panchkula,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+77,raipur,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+78,madurai,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+79,vijayawada,cancer-screening-health-checkup,Ideal for individuals aged 21 - 80 years,Men's Cancer Marker Checkup,₹2199
+80,delhi,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+81,mumbai,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+82,noida,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+83,navi mumbai,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+84,faridabad,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+85,ahmedabad,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+86,jodhpur,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+87,ludhiana,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+88,visakhapatnam,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+89,nagpur,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+90,karnal,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+91,surat,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+92,raigarh,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+93,gurgaon,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+94,thane,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+95,hyderabad,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+96,chennai,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+97,bhubaneswar,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+98,indore,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+99,lucknow,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+100,patna,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+101,ernakulam,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+102,aurangabad,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+103,bhopal,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+104,krishnamedak,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+105,mohali,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+106,salem,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+107,rangareddy,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+108,bangalore,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+109,pune,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+110,kolkata,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+111,coimbatore,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+112,chandigarh,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+113,ghaziabad,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+114,jaipur,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+115,vadodara,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+116,panchkula,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+117,raipur,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+118,madurai,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+119,vijayawada,skin-care-checkups,Ideal for individuals aged 15 - 60 years,Women's Skincare Checkup,₹3499
+120,delhi,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+121,mumbai,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+122,noida,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+123,navi mumbai,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+124,faridabad,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+125,ahmedabad,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+126,jodhpur,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+127,ludhiana,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+128,visakhapatnam,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+129,nagpur,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+130,karnal,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+131,surat,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+132,raigarh,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+133,gurgaon,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+134,thane,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+135,hyderabad,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+136,chennai,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+137,bhubaneswar,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+138,indore,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+139,lucknow,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+140,patna,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+141,ernakulam,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+142,aurangabad,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+143,bhopal,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+144,krishnamedak,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+145,mohali,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+146,salem,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+147,rangareddy,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+148,bangalore,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+149,pune,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+150,kolkata,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+151,coimbatore,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+152,chandigarh,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+153,ghaziabad,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+154,jaipur,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+155,vadodara,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+156,panchkula,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+157,raipur,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+158,madurai,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+159,vijayawada,kidney-urine-checkups,Ideal for individuals aged 10 - 100 years,Kidney & Urine Profile,₹600
+160,delhi,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+161,mumbai,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+162,noida,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+163,navi mumbai,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+164,faridabad,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+165,ahmedabad,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+166,jodhpur,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+167,ludhiana,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+168,visakhapatnam,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+169,nagpur,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+170,karnal,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+171,surat,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+172,raigarh,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+173,gurgaon,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+174,thane,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+175,hyderabad,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+176,chennai,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+177,bhubaneswar,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+178,indore,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+179,lucknow,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+180,patna,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+181,ernakulam,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+182,aurangabad,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+183,bhopal,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+184,krishnamedak,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+185,mohali,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+186,salem,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+187,rangareddy,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+188,bangalore,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+189,pune,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach and Digestion Checkup,₹2500
+190,kolkata,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+191,coimbatore,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+192,chandigarh,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+193,ghaziabad,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+194,jaipur,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach and Digestion Checkup,₹2500
+195,vadodara,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+196,panchkula,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+197,raipur,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+198,madurai,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+199,vijayawada,stomach-digestion-checkups,Ideal for individuals aged 10 - 100 years,Stomach & Digestion Profile,₹2500
+200,delhi,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+201,mumbai,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+202,noida,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+203,navi mumbai,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+204,faridabad,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+205,ahmedabad,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+206,jodhpur,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+207,ludhiana,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+208,visakhapatnam,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+209,nagpur,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+210,karnal,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+211,surat,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+212,raigarh,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+213,gurgaon,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+214,thane,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+215,hyderabad,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+216,chennai,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+217,bhubaneswar,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+218,indore,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+219,lucknow,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+220,patna,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+221,ernakulam,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+222,aurangabad,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+223,bhopal,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+224,krishnamedak,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+225,mohali,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+226,salem,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+227,rangareddy,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+228,bangalore,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+229,pune,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+230,kolkata,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+231,coimbatore,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+232,chandigarh,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+233,ghaziabad,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+234,jaipur,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+235,vadodara,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+236,panchkula,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+237,raipur,sexual-wellness-checkups,Ideal for individuals aged 15 - 80 years,STD Checkup,₹3499
+238,madurai,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+239,vijayawada,sexual-wellness-checkups,Ideal for individuals aged 18 - 60 years,Sexual Health Checkup - Male,₹1299
+240,delhi,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+241,mumbai,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+242,noida,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+243,navi mumbai,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+244,faridabad,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+245,ahmedabad,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+246,jodhpur,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+247,ludhiana,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+248,visakhapatnam,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+249,nagpur,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+250,karnal,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+251,surat,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+252,raigarh,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+253,gurgaon,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+254,thane,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+255,hyderabad,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+256,chennai,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+257,bhubaneswar,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+258,indore,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+259,lucknow,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+260,patna,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+261,ernakulam,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+262,aurangabad,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+263,bhopal,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+264,krishnamedak,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+265,mohali,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+266,salem,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+267,rangareddy,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+268,bangalore,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+269,pune,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+270,kolkata,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+271,coimbatore,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+272,chandigarh,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+273,ghaziabad,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+274,jaipur,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+275,vadodara,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+276,panchkula,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+277,raipur,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+278,madurai,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+279,vijayawada,bone-joints-checkups,Ideal for individuals aged 10 - 100 years,Basic Bones and Joints Checkup,₹1399
+280,delhi,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+281,mumbai,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+282,noida,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever profile,₹399
+283,navi mumbai,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+284,faridabad,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+285,ahmedabad,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+286,jodhpur,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+287,ludhiana,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+288,visakhapatnam,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+289,nagpur,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+290,karnal,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+291,surat,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+292,raigarh,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+293,gurgaon,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+294,thane,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+295,hyderabad,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+296,chennai,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+297,bhubaneswar,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+298,indore,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+299,lucknow,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+300,patna,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+301,ernakulam,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+302,aurangabad,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+303,bhopal,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+304,krishnamedak,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+305,mohali,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+306,salem,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+307,rangareddy,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+308,bangalore,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+309,pune,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+310,kolkata,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+311,coimbatore,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+312,chandigarh,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+313,ghaziabad,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+314,jaipur,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+315,vadodara,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+316,panchkula,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+317,raipur,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+318,madurai,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
+319,vijayawada,fever-checkup,Ideal for individuals aged 5 - 100 years,Fever Profile,₹399
